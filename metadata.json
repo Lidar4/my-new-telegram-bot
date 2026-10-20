@@ -1,0 +1,6 @@
+{
+  "name": "New Telegram Bot Project",
+  "description": "Clean start step-by-step guide and environment for learning Telegram Bot development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
